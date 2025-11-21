@@ -11,7 +11,8 @@
   - More to come!
 - <b>Try Hack Me Projects</b>
   - [THM Advent of cyber](https://github.com/n011d/Advent-of-Cyber)
-  - - More to come!
+  - [SOC 1](https://github.com/n011d/SOC-1/tree/main)
+  -  More to come!
 <h2> 📑 Certifications:</h2>
 
 - <b>Cyber Analyst </b>
