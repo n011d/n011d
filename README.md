@@ -6,7 +6,7 @@
   - [Botium Toys Audit (play It Safe)](https://github.com/n011d/Play-it-safe)
     
 - <b>My Cybersecurity Projects</b>
-  - Coming Soon
+  - Honey pot and SEIM
 - <b>Try Hack Me Projects</b>
   - Coming Soon
 <h2> 📑 Certifications:</h2>
