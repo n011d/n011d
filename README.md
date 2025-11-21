@@ -7,8 +7,9 @@
     
 - <b>My Cybersecurity Projects</b>
   - [Honey pot and SEIM](https://github.com/n011d/Honey-Pot/tree/main)
+  - More to come!
 - <b>Try Hack Me Projects</b>
-  - Coming Soon
+  - [THM Advent of cyber](https://github.com/n011d/Advent-of-Cyber)
 <h2> 📑 Certifications:</h2>
 
 - <b>Cyber Analyst </b>
