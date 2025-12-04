@@ -25,6 +25,7 @@
 <h2> ✔️ Completed Courses:</h2>
 
 -<b>Splunk: Basics </b>
+
 -<b>Introduction to SIEM </b>
 
 
