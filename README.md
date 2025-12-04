@@ -24,7 +24,7 @@
 
 <h2> ✔️ Completed Courses:</h2>
 
--<b>Splunk: The Basics </b>
+-<b>Splunk: Basics </b>
 
 
 
