@@ -22,6 +22,10 @@
 - <b>Google CyberSecurity </b>
 
 
+<h2> ✔️ Completed Courses:</h2>
+
+-<b>Splunk: The Basics </b>
+
 
 
 
