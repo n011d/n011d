@@ -24,11 +24,11 @@
 
 <h2> ✔️ Completed Courses:</h2>
 
--Splunk: Basics
+-Splunk
 
 -Introduction to SIEM
 
-
+-Elastic Stack
 
 
 
